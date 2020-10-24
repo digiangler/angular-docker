@@ -1,0 +1,28 @@
+.container {
+  height: 100vh;
+  width: 100%;
+  position: relative;
+}
+
+.dockerImg {
+  width: 50rem;
+  position: absolute;
+  top: 30rem;
+  left: calc(50% - 25rem);
+}
+
+.angularImg {
+  width: 20rem;
+  position: absolute;
+  top: 0rem;
+  left: calc(50% - 10rem);
+}
+
+.title {
+  width: 50rem;
+  position: absolute;
+  text-align: center;
+  top: 21rem;
+  font-size: 3rem;
+  left: calc(50% - 25rem);
+}
